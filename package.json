@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/drivly/sort.do#readme",
   "dependencies": {
-    "esbuild": "^0.16.13"
+    "esbuild": "^0.25.0"
   }
 }
